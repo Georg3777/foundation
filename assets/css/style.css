@@ -98,7 +98,7 @@ body {
 .right-box img {
 	position: absolute;
     right: -5%;
-    top: 60%;
+    top: 40%;
     transform: translateY(-50%);
 }
 
